@@ -39,12 +39,11 @@ Provide the candidate with current or proposed copies of:
 ## 4. Board appointment action
 
 - [ ] Place the appointment on a properly noticed board-meeting agenda or written-consent action.
+- [ ] Consider and vote on the candidate individually rather than as part of a slate.
 - [ ] Confirm that appointing the director receives a two-thirds vote of directors currently serving.
+- [ ] For one of the first three rotating seats, confirm that both Kevin Griffin and Linda Nichols affirmatively approve the candidate, regardless of how many initial directors are already serving.
 - [ ] Record each director's vote in the minutes or written consent; director appointments are not anonymous officer elections.
-- [ ] Record the appointment's immediate effective date.
-- [ ] Record the applicable formal term anchor: January 1 or July 1.
-- [ ] Record the formal three-year term's start and end dates.
-- [ ] Mark any period before the term anchor as a transition period that does not count toward the two-consecutive-term limit.
+- [ ] Make the appointment effective only after the required DocuSign package is completed.
 
 ## 5. Required DocuSign package
 
@@ -64,6 +63,10 @@ For every completed DocuSign envelope:
 - [ ] Save the completed signed document in Google Drive.
 - [ ] Save the DocuSign completion certificate alongside it.
 - [ ] Confirm access is limited appropriately for confidential records.
+- [ ] Record the appointment's immediate effective date after all required signatures are complete.
+- [ ] Record the next formal term anchor: January 1 or July 1.
+- [ ] Record the formal three-year term's start and end dates.
+- [ ] Mark the period before the term anchor as a transition period that does not count toward the two-consecutive-term limit.
 
 ## 6. Access and records
 
@@ -74,6 +77,8 @@ For every completed DocuSign envelope:
 - [ ] Add the director to board calendar invitations and board communications.
 - [ ] Explain that legal, personnel, donor-private, whistleblower, and executive-session records are restricted to people with a legitimate need for access.
 - [ ] Do not grant bank, QuickBooks, DocuSign administration, repository write, or other privileged access unless the director's assigned responsibilities require it.
+- [ ] Grant access only through organization-controlled accounts, groups, and 1Password vaults appropriate to the director's responsibilities.
+- [ ] For any critical account administered by the director, confirm multifactor authentication, organization-controlled recovery information, and at least one other authorized administrator.
 - [ ] Update the internal director roster, including contact information, appointment date, term anchor, formal term dates, and officer or committee assignments.
 - [ ] Update the public board roster after the appointment is effective.
 
@@ -90,7 +95,10 @@ Complete before the director's first voting meeting when practical and no later 
 
 ### Governance
 
-- [ ] Board composition, founding seats, rotating terms, term limits, and future expansion rules.
+- [ ] Board composition, the authorized five-, seven-, or nine-director structure, founding seats, rotating terms, term limits, and future expansion rules.
+- [ ] Founding-director amendment protections, mission and existential-action consent rights, accountability, and non-inheritable succession rules.
+- [ ] Individual director appointment voting, two-thirds approval, and the special requirement that both founders approve each of the first three rotating directors.
+- [ ] January 1 and July 1 term anchors and the non-term transition period before an anchor.
 - [ ] Quarterly meeting requirement, annual January organizational meeting, notice rules, agendas, minutes, quorum, and voting.
 - [ ] Anonymous voting applies only to officer elections.
 - [ ] Written-consent procedure for unanimous action between meetings.
@@ -117,6 +125,11 @@ Complete before the director's first voting meeting when practical and no later 
 - [ ] Board-approved annual and event budgets.
 - [ ] Second-director pre-approval for unbudgeted transactions of $500 or more.
 - [ ] Budgeted-expense exception for approved annual and event budgets.
+- [ ] Contract-signing authority limited to the President, Vice President, or a future Executive Director acting within delegated authority.
+- [ ] Debt-free preference and the two-thirds approval requirement for debt, guarantees, or security interests.
+- [ ] Board-designated operating and event-contingency reserves and the board-approval requirement for reserve spending.
+- [ ] Separate tracking and purpose restrictions for donor-restricted and grant-restricted funds.
+- [ ] Administrative acceptance of routine unrestricted cash donations and board review of unusual or heavily restricted gifts.
 - [ ] Form 990 preparation and board-review process.
 
 ### Records and risk
@@ -126,6 +139,15 @@ Complete before the director's first voting meeting when practical and no later 
 - [ ] Legal-hold requirements.
 - [ ] General liability, event insurance, and D&O coverage when obtained.
 - [ ] Indemnification and its exclusions.
+
+### Communications and account security
+
+- [ ] Public-representation rule: directors do not speak for RevolutionVA unless authorized and clearly distinguish personal views.
+- [ ] Routine communications authority of the President and board approval for policy, crisis, legal, or significantly controversial statements.
+- [ ] Joint President/Vice President holding-statement authority in a genuine time-sensitive crisis, subject to prompt board review.
+- [ ] Shared email and 1Password practices.
+- [ ] Critical-account requirements: two administrators, organization-controlled recovery information, and multifactor authentication.
+- [ ] Same-day access removal when a person leaves and immediate review when responsibilities change.
 
 ## 8. First board meeting
 
@@ -158,3 +180,4 @@ At the January organizational meeting each year:
 - [ ] Review attendance and active-participation expectations.
 - [ ] Confirm program, event, or committee involvement for the year.
 - [ ] Review policy or bylaw changes adopted since the prior acknowledgment.
+- [ ] Complete the annual access audit for shared accounts, administrators, 1Password vaults, recovery methods, MFA, banking, QuickBooks Online, GitHub, Google Drive, DocuSign, domains, websites, and social platforms.
