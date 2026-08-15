@@ -5,7 +5,7 @@ clear which are required and which are best practice.
 
 ---
 
-## 1. Locate or re-adopt the Conflict of Interest Policy — **required**
+## 1. Adopt a new Conflict of Interest Policy — **required**
 
 **Status:** the *signed acknowledgments* exist; the *Policy itself* does not.
 
@@ -20,9 +20,9 @@ Why it matters:
 - **Bylaws §§ 5.1, 5.2, 11.6, 14.1(iii)** all condition director/officer transactions, compensation and indemnification on compliance with it.
 - The **2025 Form 990, Part VI line 12a** currently answers **No** to "Did the organization have a written conflict of interest policy?" That contradicts the Bylaws and the signed statements.
 
-Action: it was most likely filed as an attachment to the Form 1023 (see item 4) — retrieve it there.
-If it can't be recovered, adopt a fresh one by Board resolution (the IRS sample policy in the
-Form 1023 instructions, Appendix A, is the standard starting point), publish it at
+Action: continue searching for the historical policy, including in the Form 1023 materials described
+in item 4, but adopt a fresh policy regardless so the operative rules are clear and current. Use the
+IRS sample policy in the Form 1023 instructions, Appendix A, as a starting point, publish it at
 `governance/conflict-of-interest-policy.md`, have current directors re-execute acknowledgments,
 and correct line 12a on the next 990.
 
@@ -37,8 +37,8 @@ applies to **all** organizations, nonprofits included. Retaliating against someo
 federal offense is unlawful whether or not a policy exists. A written policy doesn't create the
 obligation, it just makes the reporting path clear.
 
-Recommendation: adopt one. It's a one-page document, costs nothing, and flips line 13 to Yes.
-Publish at `governance/whistleblower-policy.md`.
+Decision: the Board intends to adopt one as part of governance formalization. Publish it at
+`governance/whistleblower-policy.md` after Board and legal review.
 
 ## 3. Document retention and destruction policy — **not required, recommended**
 
@@ -50,8 +50,10 @@ policy. Separately, **Bylaws § 16.1 already requires permanent retention of min
 **§ 16.4** already requires keeping five specific records, so part of a retention schedule is
 effectively mandated by the Bylaws.
 
-Recommendation: adopt one, aligned to what § 16.4 already requires plus normal financial-record
-retention. Publish at `governance/document-retention-policy.md`.
+Decision: the Board intends to adopt one, aligned to what § 16.4 already requires, permanent
+retention of core governance and tax records, at least seven years for routine supporting financial
+records, and a legal-hold process. Publish it at `governance/document-retention-policy.md` after
+Board and legal review.
 
 ## 4. Obtain a copy of Form 1023 — **required to keep, required to disclose**
 
@@ -77,7 +79,11 @@ Restating also gives the Board a chance to reconcile two live discrepancies:
 - Board size: Articles § 7(b) allows 1–15 directors; Bylaws § 2.1 says 1–7.
 - Article XIII's Conflict of Interest Policy requirement vs. item 1 above.
 
-Amendment requires only a majority Board resolution (Bylaws § 19.1).
+The Board is developing a broader restatement covering board composition, founding-director rights,
+rotating terms, officer elections, meeting procedures, financial controls and related governance
+matters. Proposed rules remain non-operative until formally adopted. Linda Nichols will review the
+proposal before it goes to Pierce Legal. The currently operative Bylaws permit amendment by majority
+Board resolution (§ 19.1); the restated package proposes a higher threshold for future amendments.
 
 ## 6. Start keeping and publishing Board minutes — **required**
 
@@ -85,14 +91,17 @@ Amendment requires only a majority Board resolution (Bylaws § 19.1).
 meeting. No minutes were found anywhere in the scanned material. The Board must also meet at least
 once per year (§ 3.1).
 
-Action: record minutes going forward in `board/minutes/YYYY-MM-DD.md`. Reconstruct what's
-recoverable for prior years, or note plainly that earlier records weren't kept.
+Action: record minutes going forward in `board/minutes/YYYY-MM-DD.md`. State plainly that formal
+historical minutes were not kept. Do not invent, backdate or present reconstructed narratives as
+historical minutes. Earlier facts may be documented as present-day history or resolutions with the
+date of documentation clearly stated.
 
 ## 7. Complete the board roster
 
-`board/README.md` needs service start dates, and confirmation of whether the **Secretary** office is
-currently filled — Bylaws § 10.1 requires a President *and* a Secretary. The 2025 Form 990 lists only
-a President and a Treasurer.
+`board/README.md` still needs the current service start dates. The current officers have confirmed
+the operative roster: Kevin Griffin is President and Secretary/Treasurer; Linda Nichols is Vice
+President; they are the only current directors. The 2025 Form 990 reported different officer titles,
+so future filings should use the current roles.
 
 ## 8. Decide how to publish the Form 990s
 
@@ -126,13 +135,16 @@ Once this repository is live, the next return can change:
 
 ## 10. Verify Virginia SCC standing
 
-Not confirmed during the document scan. Check that the annual report is current and that a
-registered agent is on file — the last registered-agent paperwork found dates from 2022
-(Pierce McCoy, PLLC). Bylaws § 16.4(c) requires keeping the most recent SCC annual report.
+Kevin Griffin confirms that Pierce Legal is the registered agent. Verify the current SCC record,
+confirm that the annual report is current, and retain the most recent report as required by Bylaws
+§ 16.4(c). The last registered-agent paperwork found in the document scan dates from 2022 and names
+Pierce McCoy, PLLC, so the public record and retained files should be reconciled.
 
 ## 11. Extend code of conduct coverage
 
 [`RevolutionVA/code-of-conduct`](https://github.com/RevolutionVA/code-of-conduct) currently holds
-`hrdevfest-coc.md` and `revconf-coc.md`. Consider adding an organization-wide code of conduct that
-events inherit by default, plus one for **BSides Hampton Roads**, which is now running under
-RevolutionVA but has no CoC in that repo.
+`hrdevfest-coc.md` and `revconf-coc.md`. The Board intends to add an organization-wide Code of
+Conduct and nondiscrimination commitment that RevolutionVA programs, events and online spaces
+inherit by default. RevolutionVA provides event-specific sponsorship to **BSides Hampton Roads** but
+does not operate it; the repository must not describe BSides as a RevolutionVA-run program or imply
+that RevolutionVA controls its Code of Conduct.

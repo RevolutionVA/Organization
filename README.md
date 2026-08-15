@@ -1,9 +1,12 @@
 # RevolutionVA
 
 **RevolutionVA** is a 501(c)(3) nonprofit in Hampton Roads, Virginia. Our purpose, as stated in our
-Bylaws, is *to provide educational opportunities for software and web development*. In practice that
-means running community technology events — Hampton Roads DevFest, BSides Hampton Roads,
-RevolutionConf, meetups and job fairs.
+currently operative Bylaws, is *to provide educational opportunities for software and web
+development*. RevolutionVA operates Hampton Roads DevFest, 757tech and the Hampton Roads Community
+Board Map. RevolutionConf is a dormant event that may return. RevolutionVA provides event-specific
+sponsorship to BSides Hampton Roads but does not operate it. A standalone 757 job fair is planned as
+a future program. The independently managed 757 Developers Meetup is used by RevolutionVA but is not
+owned by the organization.
 
 This repository is our public operations record: governing documents, board information, and
 policies. It exists so that anyone — attendees, speakers, sponsors, volunteers, grantmakers — can
@@ -65,7 +68,8 @@ Codes of conduct for our events live in a separate repository:
 
 This repository is new and deliberately incomplete. [TODO.md](TODO.md) tracks what's still missing —
 including the Conflict of Interest Policy, a copy of our Form 1023, restated Bylaws under the current
-name, and board minutes. We'd rather publish the gaps than paper over them.
+name, and a formal board-minutes process going forward. We'd rather publish the gaps than paper over
+them.
 
 ## What isn't here
 
