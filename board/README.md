@@ -8,13 +8,15 @@ of the Board.
 
 | Name | Office | Since |
 |---|---|---|
-| Kevin Griffin | President | — |
-| Linda Nichols | Treasurer | — |
+| Kevin Griffin | President; Secretary/Treasurer | Current service start date not yet documented |
+| Linda Nichols | Vice President | Current service start date not yet documented |
 
-As reported on the 2025 Form 990: 2 voting members, both independent, none compensated.
+Kevin Griffin and Linda Nichols are the only current directors; no other person is presently treated
+as a formal or informal Board member. The current officer roles above were confirmed by the officers.
+The 2025 Form 990 reported two voting directors, both independent and uncompensated, but listed the
+officer roles differently; future filings should use the current titles.
 
-> **TODO:** confirm and fill in service dates, and record whether the Secretary office
-> (required by Bylaws § 10.1) is currently filled. See [TODO](../TODO.md).
+> **TODO:** confirm and fill in the current service start dates. See [TODO](../TODO.md).
 
 ## Founding board
 
@@ -27,6 +29,9 @@ Elected November 30, 2015, on adoption of the original Bylaws:
 | Kevin Griffin | Secretary |
 
 ## Composition rules
+
+The rules below describe the **currently operative** Articles and Bylaws. The Board is developing a
+restated governance structure; proposed terms do not become operative until formally adopted.
 
 - **Articles of Incorporation § 7(b):** not fewer than 1 and not more than 15 directors, the exact number fixed by the Bylaws.
 - **Bylaws § 2.1:** not fewer than 1 and not more than 7 directors. Directors must be at least 18, have demonstrated interest in the Corporation's objectives, and be able to decide and address issues impacting the Corporation.
@@ -46,3 +51,7 @@ Bylaws § 16.1 requires the Corporation to keep permanent minutes of all Board m
 actions taken without a meeting. Minutes belong in `board/minutes/` as `YYYY-MM-DD.md`.
 
 > **TODO:** no minutes are currently on file anywhere. See [TODO](../TODO.md).
+
+RevolutionVA did not keep formal historical Board minutes. Historical minutes must not be invented or
+backdated. The organization will keep minutes and written consents going forward; earlier facts may be
+documented as present-day history or resolutions, clearly labeled with the date they are recorded.
