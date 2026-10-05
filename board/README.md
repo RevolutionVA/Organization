@@ -46,7 +46,8 @@ without a meeting (§ 3.4).
 ## Minutes
 
 Bylaws § 16.1 requires the Corporation to keep permanent minutes of all Board meetings and all
-actions taken without a meeting. Minutes belong in `board/minutes/` as `YYYY-MM-DD.md`.
+actions taken without a meeting. Minutes belong in `board/minutes/` as `YYYY-MM-DD.md`. Start each
+new meeting record from [`board/minutes/_TEMPLATE.md`](minutes/_TEMPLATE.md).
 
 > **TODO:** no minutes are currently on file anywhere. See [TODO](../TODO.md).
 
