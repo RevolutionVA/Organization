@@ -96,14 +96,7 @@ historical minutes were not kept. Do not invent, backdate or present reconstruct
 historical minutes. Earlier facts may be documented as present-day history or resolutions with the
 date of documentation clearly stated.
 
-## 7. Complete the board roster
-
-`board/README.md` still needs the current service start dates. The current officers have confirmed
-the operative roster: Kevin Griffin is President and Secretary/Treasurer; Linda Nichols is Vice
-President; they are the only current directors. The 2025 Form 990 reported different officer titles,
-so future filings should use the current roles.
-
-## 8. Decide how to publish the Form 990s
+## 7. Decide how to publish the Form 990s
 
 Tax years 2020–2025 are available. The returns are "Open to Public Inspection" and there is no
 Schedule B, so no donor information is at stake. But the accountant's client copies contain material
@@ -121,7 +114,7 @@ Two options:
 Either way: ask the accountant to use the organization's mailing address for the principal officer
 and books-and-records fields on future returns.
 
-## 9. Update the disclosure answers on the next Form 990
+## 8. Update the disclosure answers on the next Form 990
 
 Once this repository is live, the next return can change:
 
@@ -133,14 +126,14 @@ Once this repository is live, the next return can change:
 | Part VI, line 13 (whistleblower policy) | No | Yes, on completing item 2 |
 | Part VI, line 14 (document retention policy) | No | Yes, on completing item 3 |
 
-## 10. Verify Virginia SCC standing
+## 9. Verify Virginia SCC standing
 
 Kevin Griffin confirms that Pierce Legal is the registered agent. Verify the current SCC record,
 confirm that the annual report is current, and retain the most recent report as required by Bylaws
 § 16.4(c). The last registered-agent paperwork found in the document scan dates from 2022 and names
 Pierce McCoy, PLLC, so the public record and retained files should be reconciled.
 
-## 11. Extend code of conduct coverage
+## 10. Extend code of conduct coverage
 
 [`RevolutionVA/code-of-conduct`](https://github.com/RevolutionVA/code-of-conduct) currently holds
 `hrdevfest-coc.md` and `revconf-coc.md`. The Board intends to add an organization-wide Code of
