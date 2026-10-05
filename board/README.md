@@ -8,15 +8,13 @@ of the Board.
 
 | Name | Office | Since |
 |---|---|---|
-| Kevin Griffin | President; Secretary/Treasurer | Current service start date not yet documented |
-| Linda Nichols | Vice President | Current service start date not yet documented |
+| Kevin Griffin | President; Secretary/Treasurer | November 30, 2015 |
+| Linda Nichols | Vice President | November 30, 2015 |
 
 Kevin Griffin and Linda Nichols are the only current directors; no other person is presently treated
 as a formal or informal Board member. The current officer roles above were confirmed by the officers.
 The 2025 Form 990 reported two voting directors, both independent and uncompensated, but listed the
 officer roles differently; future filings should use the current titles.
-
-> **TODO:** confirm and fill in the current service start dates. See [TODO](../TODO.md).
 
 ## Founding board
 
