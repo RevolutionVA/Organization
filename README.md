@@ -42,6 +42,11 @@ These are faithful transcriptions of the executed documents, published in Markdo
 readable, searchable and diffable. The signed originals are retained by the organization as required
 by Bylaws § 16.4 and **control in the event of any discrepancy**; copies are available on request.
 
+## Tax filings
+
+Public copies of Form 990 returns are in the `filings/` directory. Personal information (home
+addresses, phone numbers) has been redacted.
+
 ## Board
 
 See [board/README.md](board/README.md) for the current roster, composition rules and meeting

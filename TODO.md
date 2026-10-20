@@ -106,6 +106,12 @@ date of documentation clearly stated.
 
 ## 7. Decide how to publish the Form 990s
 
+**Status (2025):** a redacted public copy of the FY2025 return is published at
+`filings/2025-form-990-public.pdf`. The director's home address (Part I line F; Part VI line 20), personal
+phone number (Part I line E; Part VI line 20) and the preparer PTIN were removed with true redaction (text deleted from the PDF, not covered), and
+document metadata was stripped. The client copy used had no Form 8879-TE, signatures or SSNs.
+Earlier years (2020–2024) remain unpublished.
+
 Tax years 2020–2025 are available. The returns are "Open to Public Inspection" and there is no
 Schedule B, so no donor information is at stake. But the accountant's client copies contain material
 that must not be published as-is:
@@ -149,3 +155,14 @@ Conduct and nondiscrimination commitment that RevolutionVA programs, events and 
 inherit by default. RevolutionVA provides event-specific sponsorship to **BSides Hampton Roads** but
 does not operate it; the repository must not describe BSides as a RevolutionVA-run program or imply
 that RevolutionVA controls its Code of Conduct.
+
+## 11. Reconcile the 2025 Form 990 with the record
+
+- **Part VI lines 13 and 14** (whistleblower; document retention) answer **No** — see items 2 and 3.
+- **Part VI lines 8a/8b** answer **Yes** to "contemporaneously document the meetings held or written
+  actions undertaken," but no minutes exist (item 6). Either start minutes now or answer accurately
+  on the next return.
+- **Officer titles:** the 990 lists Kevin Griffin as **President** and Linda Nichols as **Treasurer**,
+  which differs from `board/README.md`. Decide which is correct and fix the other.
+- **Part I lines L and M** (year of formation; state of legal domicile) are blank. Ask the accountant
+  to enter **2015** and **VA** on the next return.
