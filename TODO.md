@@ -7,7 +7,10 @@ clear which are required and which are best practice.
 
 ## 1. Adopt a new Conflict of Interest Policy — **required**
 
-**Status:** the *signed acknowledgments* exist; the *Policy itself* does not.
+**Status:** a **draft** Policy is ready for Board review at
+[`governance/conflict-of-interest-policy.md`](governance/conflict-of-interest-policy.md). It is
+**not yet adopted** and has no effect until the Board acts. The 2015 signed acknowledgments exist;
+the historical Policy they reference still has not been found.
 
 Erik Olson, Kevin Griffin and Linda Nichols each executed a "Conflict of Interest Policy Statement"
 on November 30, 2015 (same DocuSign envelope as the Bylaws), confirming *"I have received a copy of
@@ -20,11 +23,16 @@ Why it matters:
 - **Bylaws §§ 5.1, 5.2, 11.6, 14.1(iii)** all condition director/officer transactions, compensation and indemnification on compliance with it.
 - The **2025 Form 990, Part VI line 12a** currently answers **No** to "Did the organization have a written conflict of interest policy?" That contradicts the Bylaws and the signed statements.
 
-Action: continue searching for the historical policy, including in the Form 1023 materials described
-in item 4, but adopt a fresh policy regardless so the operative rules are clear and current. Use the
-IRS sample policy in the Form 1023 instructions, Appendix A, as a starting point, publish it at
-`governance/conflict-of-interest-policy.md`, have current directors re-execute acknowledgments,
-and correct line 12a on the next 990.
+The draft follows the IRS sample policy (Form 1023 instructions, Appendix A) and adds small-board
+procedures (Article III § 3.4) for when only one director, or no director, is disinterested.
+
+Next steps:
+1. **Counsel review** — ask Pierce Legal to confirm the § 3.4 small-board procedures against the Virginia Nonstock Corporation Act, in particular whether a single disinterested director may approve a conflicted transaction.
+2. **Board adoption** — adopt by resolution at a meeting (§ 3.5) or unanimous written consent (§ 3.4); record it in `board/minutes/YYYY-MM-DD.md`, fill in the adoption block at the top of the Policy, and remove the DRAFT banner.
+3. **Annual statements** — each current director and officer signs the Appendix A statement within 30 days of adoption and annually thereafter; signed originals kept with the corporate records, not published.
+4. **Annual practice** — at each annual meeting (§ 3.1), collect statements and conduct the Article VII periodic review, and record both in the minutes.
+5. **Next Form 990, Part VI** — answer **Yes** on line **12a** (written policy), **12b** (officers, directors and key employees required to disclose annually) and **12c** (the organization regularly and consistently monitors and enforces compliance), and describe in **Schedule O** how compliance is monitored (annual statements, abstention and minutes under Articles III–VI). Answer 12b and 12c Yes only once the annual statements and review are actually in practice.
+6. Keep looking for the historical Policy, including in the Form 1023 materials (item 4); on adoption, the new Policy supersedes it.
 
 ## 2. Whistleblower policy — **not required, recommended**
 
