@@ -45,8 +45,17 @@ applies to **all** organizations, nonprofits included. Retaliating against someo
 federal offense is unlawful whether or not a policy exists. A written policy doesn't create the
 obligation, it just makes the reporting path clear.
 
-Decision: the Board intends to adopt one as part of governance formalization. Publish it at
-`governance/whistleblower-policy.md` after Board and legal review.
+**Status:** a **draft** Policy is ready for Board review at
+[`governance/whistleblower-policy.md`](governance/whistleblower-policy.md). It is **not yet
+adopted** and has no effect until the Board acts.
+
+Decision: the Board intends to adopt one as part of governance formalization.
+
+Next steps:
+1. **Counsel review**: ask counsel to review the draft, including the reporting channels in Article III for a board this small.
+2. **Board adoption**: adopt by resolution at a meeting (§ 3.5) or unanimous written consent (§ 3.4); record it in `board/minutes/YYYY-MM-DD.md`, fill in the adoption block at the top of the Policy, remove the DRAFT banner, and publish current contact details for the reporting channels.
+3. **Acknowledgments**: each current director and officer signs the Appendix A acknowledgment within 30 days of adoption and annually thereafter, alongside the Conflict of Interest statement.
+4. **Next Form 990, Part VI**: answer **Yes** on line **13** once the Policy is adopted.
 
 ## 3. Document retention and destruction policy — **not required, recommended**
 
