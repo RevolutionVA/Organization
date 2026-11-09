@@ -58,10 +58,19 @@ policy. Separately, **Bylaws § 16.1 already requires permanent retention of min
 **§ 16.4** already requires keeping five specific records, so part of a retention schedule is
 effectively mandated by the Bylaws.
 
+**Status:** a **draft** Policy is ready for Board review at
+[`governance/document-retention-policy.md`](governance/document-retention-policy.md). It is **not
+yet adopted** and has no effect until the Board acts.
+
 Decision: the Board intends to adopt one, aligned to what § 16.4 already requires, permanent
 retention of core governance and tax records, at least seven years for routine supporting financial
-records, and a legal-hold process. Publish it at `governance/document-retention-policy.md` after
-Board and legal review.
+records, and a legal-hold process. The draft does all three.
+
+Next steps:
+1. **Accountant and counsel review**: confirm the retention periods in Article III and the litigation hold in Article VI.
+2. **Board adoption**: adopt by resolution at a meeting (§ 3.5) or unanimous written consent (§ 3.4); record it in `board/minutes/YYYY-MM-DD.md`, fill in the adoption block at the top of the Policy, and remove the DRAFT banner.
+3. **Annual practice**: before each annual meeting (§ 3.1), the Secretary and Treasurer run the Article V review and the minutes note it.
+4. **Next Form 990, Part VI**: answer **Yes** on line **14** once the Policy is adopted.
 
 ## 4. Obtain a copy of Form 1023 — **required to keep, required to disclose**
 
